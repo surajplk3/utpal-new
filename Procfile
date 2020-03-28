@@ -1,0 +1,1 @@
+web: gunicorn utpal_proj.wsgi --log-file -
